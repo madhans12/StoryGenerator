@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StoryGenerator/static/css/main.f40260d8.css",
+    "main.js": "/StoryGenerator/static/js/main.13dbaebe.js",
+    "static/js/787.910f9838.chunk.js": "/StoryGenerator/static/js/787.910f9838.chunk.js",
+    "index.html": "/StoryGenerator/index.html",
+    "main.f40260d8.css.map": "/StoryGenerator/static/css/main.f40260d8.css.map",
+    "main.13dbaebe.js.map": "/StoryGenerator/static/js/main.13dbaebe.js.map",
+    "787.910f9838.chunk.js.map": "/StoryGenerator/static/js/787.910f9838.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f40260d8.css",
+    "static/js/main.13dbaebe.js"
+  ]
+}
